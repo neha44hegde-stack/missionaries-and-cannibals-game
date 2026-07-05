@@ -19,4 +19,4 @@ A Python implementation of the classic Missionaries and Cannibals river crossing
 - Jupyter Notebook
 
 ## Author
-Your Name
+Neha Hegde
